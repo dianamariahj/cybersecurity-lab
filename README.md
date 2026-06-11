@@ -1,162 +1,152 @@
-# Cybersecurity Security Lab
+# Cybersecurity Lab
 
-A comprehensive cybersecurity portfolio and learning laboratory dedicated to exploring, documenting, and analyzing the many domains of cybersecurity.
+A practical cybersecurity portfolio and learning lab focused on exploring, documenting, and analyzing key areas of cybersecurity.
 
-This repository serves as a centralized location for cybersecurity research, practical exercises, security analysis, technical documentation, case studies, security reviews, and hands-on learning. The goal is to continuously develop knowledge across the cybersecurity landscape while building a portfolio that demonstrates technical reasoning, analytical thinking, security awareness, and professional documentation skills.
+This repository is where I work through security concepts, real-world scenarios, and hands-on exercises. It brings together research, analysis, technical documentation, and applied practice to build a deeper understanding of how security works in real environments.
 
-## Mission
+---
 
-Cybersecurity is a broad and constantly evolving field. This repository is designed to explore cybersecurity from multiple perspectives including defensive security, security operations, governance, risk management, application security, infrastructure security, cloud security, threat analysis, and emerging technologies.
+## Purpose
+
+Cybersecurity is a broad and constantly evolving field. This lab is designed to explore it from multiple perspectives, including security operations, governance, risk management, application security, infrastructure security, and emerging areas such as AI security.
+
+The goal is not just to learn concepts, but to understand how they apply in real-world systems and how security decisions are made in practice.
+
+---
 
 ## Areas of Exploration
 
-### Governance, Risk & Compliance (GRC)
+### Governance, Risk, and Compliance (GRC)
 
-* Security Governance
-* Risk Management
-* Security Controls
-* Compliance Programs
-* Third-Party Risk
+* Security governance and policies
+* Risk management and control frameworks
+* Compliance programs and audits
+* Third-party risk and vendor security
 
-### Security Auditing
+### Identity and Access Management (IAM)
 
-* Access Reviews
-* Audit Findings
-* Evidence Collection
-* Control Validation
-* Remediation Tracking
-
-### Identity & Access Management (IAM)
-
-* Role-Based Access Control (RBAC)
-* Least Privilege
-* Access Certification
-* User Lifecycle Management
-* Privileged Access Management
+* Role-based access control (RBAC)
+* Least privilege and segregation of duties
+* Access certification and governance
+* User lifecycle and privileged access management
 
 ### Vulnerability Management
 
-* Vulnerability Assessments
-* Risk Prioritization
-* CVSS Analysis
-* Patch Management
-* Remediation Planning
+* Vulnerability assessments and scanning
+* CVSS analysis and risk prioritization
+* Patch management and remediation planning
 
-### Incident Response
+### Security Operations and Incident Response
 
-* Detection & Analysis
-* Containment
-* Eradication & Recovery
-* Incident Documentation
-* Investigation Procedures
+* Security monitoring and alert triage
+* Log analysis and threat detection
+* Incident investigation, containment, and recovery
+* Documentation and investigation workflows
 
-### Security Operations (SecOps)
+### Network and Infrastructure Security
 
-* Security Monitoring
-* SIEM Concepts
-* Log Analysis
-* Alert Triage
-* Threat Detection
-
-### Network Security
-
-* Network Architecture
-* Firewalls
-* Network Segmentation
-* VPN Security
-* Network Hardening
+* Network architecture and segmentation
+* Firewalls and VPN security
+* Network hardening and traffic analysis
 
 ### Application Security
 
-* Authentication
-* Authorization
-* Secure Development Concepts
-* Input Validation
-* OWASP Top 10
+* Authentication and authorization
+* Input validation and secure coding concepts
+* OWASP Top 10 vulnerabilities
 
 ### Cloud Security
 
-* Cloud Architecture
-* Cloud IAM
-* Security Monitoring
-* Shared Responsibility Model
-* Cloud Risk Management
+* Cloud architecture and IAM
+* Security monitoring and logging
+* Shared responsibility model
+* Cloud risk management
 
 ### Threat Intelligence
 
-* Threat Analysis
-* Threat Actor Research
-* Indicators of Compromise (IOCs)
-* MITRE ATT&CK
-* Threat Hunting Concepts
+* Threat analysis and actor research
+* Indicators of compromise (IOCs)
+* MITRE ATT&CK and threat mapping
+* Threat hunting concepts
 
 ### Digital Forensics
 
-* Evidence Handling
-* Timeline Analysis
-* Investigation Methodologies
-* Forensic Processes
+* Evidence handling and analysis
+* Timeline reconstruction
+* Investigation methodologies
 
 ### Cryptography
 
-* Encryption
-* Hashing
-* Public Key Infrastructure (PKI)
-* Digital Signatures
-* Secure Communications
+* Encryption and hashing
+* Public key infrastructure (PKI)
+* Secure communication practices
 
-### Linux Security
+### System Security
 
-* Kali Linux
-* Linux Hardening
-* Permissions & Access Control
-* Security Tooling
+#### Linux
 
-### Windows Security
+* Kali Linux and security tooling
+* System hardening and permissions
 
-* Active Directory
-* Group Policy
-* Windows Hardening
-* Account Security
+#### Windows
 
-### Security Testing
+* Active Directory and Group Policy
+* Account security and system hardening
 
-* Security Assessments
-* Vulnerability Scanning
-* Security Validation
-* Security Review Methodologies
+### Security Testing and Assessment
 
-### Security Architecture & Engineering
+* Security assessments and validation
+* Vulnerability scanning
+* Security review methodologies
 
-* Secure Design Principles
+### Security Architecture and Engineering
+
+* Secure design principles
 * Defense in Depth
-* Zero Trust Concepts
-* Security Architecture Reviews
+* Zero Trust concepts
+* Architecture reviews
 
 ### AI Security
 
-* Prompt Injection
-* AI Risk Analysis
-* AI Evaluation Security
-* Emerging AI Threats
+* Prompt injection risks
+* AI system evaluation
+* Security considerations in AI workflows
 
 ### Security Case Studies
 
-* Data Breaches
-* Ransomware Incidents
-* Insider Threats
-* Security Failures
-* Lessons Learned
+* Data breaches and ransomware incidents
+* Insider threats and security failures
+* Lessons learned and analysis
+
+---
+
+## Project Categories
+
+Examples of content that may be included in this repository:
+
+* Security reviews
+* Vulnerability assessments
+* Risk analysis exercises
+* RBAC and access control reviews
+* Security case studies
+* Incident response scenarios
+* Threat analysis exercises
+* Security documentation examples
+* Security architecture reviews
+* AI security evaluations
+
+---
 
 ## Repository Goals
 
-* Develop knowledge across major cybersecurity domains
-* Build practical and analytical cybersecurity skills
-* Document security concepts and best practices
-* Explore real-world security scenarios and case studies
-* Strengthen technical writing and communication
-* Create a professional cybersecurity portfolio that evolves over time
+* Build practical knowledge across cybersecurity domains
+* Strengthen analytical and technical skills
+* Document security concepts and real-world scenarios
+* Develop clear, professional security documentation
+* Build a portfolio that reflects real understanding over time
+
+---
 
 ## Disclaimer
 
-This repository is intended for educational, research, documentation, and portfolio purposes. Content focuses on defensive security, cybersecurity awareness, risk reduction, and professional development.
+This repository is intended for educational and professional development purposes. All content focuses on defensive security practices, risk reduction, and improving security awareness.
