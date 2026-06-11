@@ -1,0 +1,116 @@
+# Security Auditing
+
+Security auditing involves reviewing systems, processes, and controls to ensure they align with security policies, regulatory requirements, and established best practices.
+
+The goal of auditing is not just to identify issues, but to validate that controls are working as intended, risks are being managed appropriately, and security processes are being followed consistently.
+
+---
+
+## Purpose
+
+Security audits help organizations:
+
+* Identify control gaps and weaknesses
+* Validate the effectiveness of security controls
+* Ensure compliance with internal policies and external requirements
+* Detect excessive access, misconfigurations, or control failures
+* Improve overall security posture
+
+Auditing is an important part of governance and risk management because it provides visibility into how systems and processes operate in practice.
+
+---
+
+## Key Areas of Focus
+
+### Access Reviews
+
+Access reviews evaluate whether users have appropriate permissions based on their roles and responsibilities.
+
+Common review areas include:
+
+* Excessive access or overprovisioning
+* Segregation of duties (SoD) conflicts
+* Inactive or orphaned accounts
+* Privileged access assignments
+
+### Control Validation
+
+Control validation helps confirm that security controls are implemented and functioning as intended.
+
+Examples include:
+
+* Verifying password policies are enforced
+* Confirming logging and monitoring are enabled
+* Testing access restrictions and approval processes
+* Reviewing system configurations
+
+### Audit Findings
+
+Audit findings document identified issues, risks, and opportunities for improvement.
+
+A finding typically includes:
+
+* Description of the issue
+* Severity or risk rating
+* Business or security impact
+* Recommended remediation
+
+### Evidence Collection
+
+Auditors collect evidence to support findings and validate control effectiveness.
+
+Common forms of evidence include:
+
+* System screenshots
+* Access reports
+* Configuration settings
+* Audit logs
+* Policy and procedure documentation
+
+Evidence should be accurate, relevant, and sufficient to support conclusions.
+
+### Remediation Tracking
+
+Once findings are identified, remediation efforts should be tracked through resolution.
+
+This often includes:
+
+* Assigning ownership
+* Tracking remediation timelines
+* Validating corrective actions
+* Documenting closure and improvements
+
+---
+
+## Common Audit Scenarios
+
+Security auditing frequently includes reviews such as:
+
+* User access reviews and certifications
+* Role-based access control (RBAC) validation
+* Privileged access reviews
+* System configuration reviews
+* Compliance and control assessments
+
+---
+
+## Practical Approach
+
+Effective security auditing is not simply about identifying issues.
+
+It also requires:
+
+* Understanding how systems are used in real environments
+* Evaluating risk, not just compliance requirements
+* Providing clear and actionable recommendations
+* Supporting continuous improvement efforts
+
+Strong audits balance technical validation, business context, and effective communication.
+
+---
+
+## Summary
+
+Security auditing is a key component of a mature security program. It helps organizations maintain visibility into systems, reduce risk, and improve accountability.
+
+When performed effectively, auditing provides insight into both technical controls and operational processes, helping organizations make better security decisions and strengthen overall governance.
