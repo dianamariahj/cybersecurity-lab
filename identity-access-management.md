@@ -26,15 +26,6 @@ Without proper IAM, it becomes difficult to answer basic questions such as:
 
 ## Core Concepts
 
-+----------------------+      +----------------------+
-|   Authentication     |      |    Authorization     |
-+----------------------+      +----------------------+
-| Who are you?         |      | What can you do?     |
-| Password             | ---> | Read                 |
-| MFA                  |      | Write                |
-| SSO                  |      | Approve              |
-+----------------------+      +----------------------+
-
 ### Identity
 
 An identity represents a user or system within an environment.
@@ -71,6 +62,8 @@ This includes:
 * Ability to perform specific actions
 
 Authorization should always align with business needs and job responsibilities.
+
+![Authentication vs Authorization](images/authentication-vs-authorization.png)
 
 ---
 
@@ -120,16 +113,6 @@ This is often described as:
 * **Leaver** – Access is removed when a user leaves the organization
 
 Failures in this process are a common source of security risk.
-
-+----------+      +----------+      +----------+
-| Joiner   | ---> | Mover    | ---> | Leaver   |
-+----------+      +----------+      +----------+
-
- New User         Role Change       Termination
-
- Provision        Modify Access     Remove Access
- Accounts         Update Roles      Disable Account
- Permissions      Review Access     Revoke Access
 
 ---
 
