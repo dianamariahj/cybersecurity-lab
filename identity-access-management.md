@@ -114,7 +114,9 @@ This is often described as:
 
 Failures in this process are a common source of security risk.
 
-![User Lifecycle Management](images/user-lifecycle-management.png)
+<p align="center">
+  <img src="../images/user-lifecycle-management.png" alt="User Lifecycle Management" width="750">
+</p>
 
 ---
 
