@@ -115,7 +115,7 @@ This is often described as:
 Failures in this process are a common source of security risk.
 
 <p align="center">
-  <img src="../images/user-lifecycle-management.png" alt="User Lifecycle Management" width="750">
+  <img src="/images/user-lifecycle-management.png" alt="User Lifecycle Management" width="750">
 </p>
 
 ---
