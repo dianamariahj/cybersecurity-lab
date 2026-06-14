@@ -114,6 +114,8 @@ This is often described as:
 
 Failures in this process are a common source of security risk.
 
+![User Lifecycle Management](../images/user-lifecycle-management.png)
+
 ---
 
 ## Common IAM Risks
