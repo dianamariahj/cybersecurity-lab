@@ -63,7 +63,9 @@ This includes:
 
 Authorization should always align with business needs and job responsibilities.
 
-![Authentication vs Authorization](images/authentication-vs-authorization.png)
+<p align="center">
+  <img src="/images/authentication-vs-authorization.png" alt="Authentication vs Authorization" width="450">
+</p>
 
 ---
 
@@ -115,7 +117,7 @@ This is often described as:
 Failures in this process are a common source of security risk.
 
 <p align="center">
-  <img src="/images/user-lifecycle-management.png" alt="User Lifecycle Management" width="750">
+  <img src="/images/user-lifecycle-management.png" alt="User Lifecycle Management" width="450">
 </p>
 
 ---
